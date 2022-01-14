@@ -1,0 +1,14 @@
+body {
+  background-color: #f2ffe9;
+}
+
+h1,
+h2 {
+  color: rgb(43, 184, 137);
+}
+
+hr {
+  border: dotted;
+  box-sizing: 2px;
+  width: 50%;
+}
