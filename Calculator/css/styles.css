@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+.calc-container {
+  border: solid 1px;
+}
+
+.calc-key-row {
+  display: inline-block;
+}
+
+.calc-key {
+  height: 25px;
+  width: 25px;
+}
