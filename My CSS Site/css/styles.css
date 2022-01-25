@@ -1,10 +1,18 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: "Merriweather", serif;
 }
 
 h1 {
+  font-size: 90px;
   margin-top: 0;
+  font-family: "Sacramento", cursive;
+}
+
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
 }
 
 .top-container {
@@ -14,11 +22,9 @@ h1 {
 }
 
 .middle-container {
-  background-color: #6ef3d6;
 }
 
 .bottom-container {
-  background-color: #0dceda;
 }
 
 .top-cloud {
