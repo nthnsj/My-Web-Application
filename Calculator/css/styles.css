@@ -16,12 +16,13 @@ body {
 
 .calc-key {
   background-color: rgb(53, 53, 51);
-  height: 50px;
+  height: 45px;
   width: 50px;
   display: inline-block;
   margin-right: 20px;
   margin-left: 20px;
 }
+
 .display-section {
   border: solid 1px;
   width: 236px;
@@ -29,4 +30,12 @@ body {
   background-color: blanchedalmond;
   display: inline-block;
   margin: 10px 0 10px;
+  text-align: right;
+}
+
+.display-section p {
+  display: inline-block;
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+  margin: 0;
 }
